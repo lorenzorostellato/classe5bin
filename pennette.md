@@ -3,4 +3,4 @@
 * Pennette
 * Uova
 * Pepe nero
-* Pancetta
+* Guanciale
